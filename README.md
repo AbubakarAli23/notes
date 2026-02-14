@@ -139,3 +139,22 @@ it has three main components
       - a relationship is a association between two or more entities
       - a relationship set is a collection of similar entities
   3. attributes
+      - they describe properties of an entity
+      - for example registration number, ID number etc 
+      - simple attribute
+          - it is an attribute that cannot be divided 
+          - for example registration number
+      - composite attribute 
+          - this is an attribute that can be divided into smaller parts
+          - for example names
+      - single value attributes
+          - it has a single a value
+      - multi value attributes
+          - it can have multiple values
+          - for example dependents
+      - null attributes
+          - it is where no value exists
+      - calculated attributes
+          - these are attributes whose value is calculated from other attributes
+          - for example age and net income
+
